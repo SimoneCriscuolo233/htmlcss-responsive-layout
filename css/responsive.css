@@ -1,9 +1,14 @@
 /* Soluzione qui */
 @media screen and (min-width: 576px) and (max-width: 767px) {
-   .clearfix img {
+  .clearfix img {
     float: inline-start;
     margin-right: 15px;
   }
+
+  .social-networks .btn {
+    padding: 10px 50px;
+  }
+
 }
 
 @media screen and (min-width: 768px) {
