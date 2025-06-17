@@ -1,5 +1,10 @@
 /* Soluzione qui */
-@media screen and (min-width: 576px) and (max-width: 767px) {}
+@media screen and (min-width: 576px) and (max-width: 767px) {
+   .clearfix img {
+    float: inline-start;
+    margin-right: 15px;
+  }
+}
 
 @media screen and (min-width: 768px) {
   #topbar {
