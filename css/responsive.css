@@ -17,6 +17,16 @@
   .recipe-origin {
     display: inline-block;
   }
+
+  .quick-notes ul {
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+
+  .quick-notes li {
+    margin: 15px 20px;
+  }
 }
 
 @media screen and (min-width: 992px) {}
