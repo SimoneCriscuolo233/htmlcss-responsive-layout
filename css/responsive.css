@@ -47,4 +47,13 @@
     font-size: 2.3rem;
   }
 
+  .quick-notes ul {
+    display: block;
+    flex-wrap: nowrap;
+
+  }
+
+  .quick-notes li {
+    margin: 15px 0px;
+  }
 }
