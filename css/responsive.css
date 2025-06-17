@@ -56,4 +56,13 @@
   .quick-notes li {
     margin: 15px 0px;
   }
+
+  .recipe-video {
+    height: 35vw;
+    width: 65%;
+  }
+
+  .recipe-info {
+    width: 35%;
+  }
 }
