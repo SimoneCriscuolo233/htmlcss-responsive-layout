@@ -9,6 +9,10 @@
   main {
     padding: 50px;
   }
+
+  .recipe-origin {
+    display: inline-block;
+  }
 }
 
 @media screen and (min-width: 992px) {}
