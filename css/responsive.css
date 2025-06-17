@@ -5,6 +5,10 @@
   #topbar {
     justify-content: flex-start;
   }
+
+  main {
+    padding: 50px;
+  }
 }
 
 @media screen and (min-width: 992px) {}
