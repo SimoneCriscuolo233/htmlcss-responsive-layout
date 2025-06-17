@@ -67,6 +67,10 @@
     margin: 15px 0px;
   }
 
+  .recipe-card {
+    display: flex;
+  }
+
   .recipe-video {
     height: 35vw;
     width: 65%;
