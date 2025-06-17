@@ -10,6 +10,10 @@
     padding: 50px;
   }
 
+  .recipe-name {
+    font-size: 1.8rem;
+  }
+
   .recipe-origin {
     display: inline-block;
   }
