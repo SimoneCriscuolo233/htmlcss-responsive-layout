@@ -64,7 +64,7 @@
   }
 
   .quick-notes li {
-    margin: 15px 0px;
+    width: 100%;
   }
 
   .recipe-card {
