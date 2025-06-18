@@ -72,7 +72,7 @@
   }
 
   .recipe-video {
-    height: 35vw;
+    max-height: 420px;
     width: 65%;
   }
 
