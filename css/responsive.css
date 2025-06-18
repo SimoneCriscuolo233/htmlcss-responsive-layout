@@ -35,11 +35,11 @@
   }
 
   .quick-notes li {
-    margin: 15px 20px;
+    width: calc(100 / 3)
   }
 
   .social-networks .btn {
-    padding: 10px 50px;
+    width: 20%;
   }
 
   .ads {
